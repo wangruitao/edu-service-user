@@ -1,7 +1,6 @@
 # edu-service-user
 dubbo服务实现
 
-# edu-web-boss
 原单体项目为：
 1、edu-common-parent 父项目
 2、edu-demo 单体项目
